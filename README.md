@@ -31,7 +31,8 @@ or
     allowtransparency
     allow="autoplay"
   ></iframe>
-</div>```
+</div>
+```
 ##JavaScript
 import Plyr from 'playr';
 const player = new Playr('#player');
