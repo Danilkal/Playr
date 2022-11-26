@@ -33,6 +33,7 @@ or
   ></iframe>
 </div>
 ```
+## JavaScript
 ```html
 <script src="playr.js"></script>
 <script>
