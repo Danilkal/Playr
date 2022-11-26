@@ -43,12 +43,12 @@ const player = new Playr('#player');
 </script>
 ```
 ```html
-<script src="https://https://cdn.danilkal.com/cdn/playr.js"></script>
+<script src="https://https://danilkal.github.io/cdn/playr.js"></script>
 ```
 ## CSS
 ```html
 <link rel="stylesheet" href="playr.css" />
 ```
 ```html
-<link rel="stylesheet" href="https://cdn.danilkal.com/cdn/playr.css" />
+<link rel="stylesheet" href="https://danilkal.github.io/cdn/playr.css" />
 ```
