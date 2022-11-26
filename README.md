@@ -1,5 +1,5 @@
 # Playr
-Is a HTML5
+Is a HTML5 Video and Audio on well as Bare
 # Quick Setup
 # HTML
 ### HTML5 Video
@@ -43,12 +43,12 @@ const player = new Playr('#player');
 </script>
 ```
 ```html
-<script src="https://cdn.jsdelivr.net/gh/danilkal/playr@038e990a4ac53105e6a49221f1c85aeda12252ec/playr.js"></script>
+<script src="https://https://cdn.danilkal.com/cdn/playr.js"></script>
 ```
 ## CSS
 ```html
 <link rel="stylesheet" href="playr.css" />
 ```
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/danilkal/playr@038e990a4ac53105e6a49221f1c85aeda12252ec/playr.css" />
+<link rel="stylesheet" href="https://cdn.danilkal.com/cdn/playr.css" />
 ```
