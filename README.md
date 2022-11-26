@@ -41,12 +41,12 @@ or
 </script>
 ```
 ```html
-<script src="https://https://danilkal.github.io/cdn/playr.js"></script>
+<script src="https://https://danilkal.github.io/playr.js"></script>
 ```
 ## CSS
 ```html
 <link rel="stylesheet" href="playr.css" />
 ```
 ```html
-<link rel="stylesheet" href="https://danilkal.github.io/cdn/playr.css" />
+<link rel="stylesheet" href="https://danilkal.github.io/playr.css" />
 ```
